@@ -18,4 +18,4 @@ In the future, I hope to collaborate with like-minded professionals and engage i
 
 Feel free to connect with me if you share similar interests or have any opportunities to discuss! I love networking with individuals who are as passionate about technology and data as I am.
 
-- **Email**: lolhunganhgmail.com
+- **Email**: hunganhd1012@gmail.com
