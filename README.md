@@ -1,6 +1,6 @@
 # 🌟 Introduction
 
-Hello! My name is **Hung Anh** 👋, and I am a third-year student at **FPT University** 🎓. I am majoring in **Artificial Intelligence** 🤖 and have a strong passion for **Big Data** 📊.
+Hello! My name is **Hung Anh** 👋. I am majoring in **Artificial Intelligence** 🤖 and have a strong passion for **Big Data** 📊.
 
 ## 🌱 About Me
 
